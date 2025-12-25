@@ -20,8 +20,10 @@ An e-commerce sales analysis project examining product performance, customer dem
 2. Pandas - Data manipulation
 3. Matplotlib - Data visualization
 
+## Usage
+```bash
 # Install dependencies
 pip install pandas matplotlib numpy
 
 # Run analysis
-python sales_analysis.py
+sales_data_analysis.py
